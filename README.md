@@ -3,7 +3,7 @@
 
 <pre>
 @font-face {
-    font-family: "mowon";
+    font-family: "miwon";
     font-weight: normal;
     font-style: normal;
     src: url("https://cdn.jsdelivr.net/gh/wefonts/miwon/miwon.eot");
@@ -14,6 +14,6 @@
     font-display: swap;
 }
 .mowon {
-    font-family: "mowon";
+    font-family: "miwon";
 }
 </pre>
